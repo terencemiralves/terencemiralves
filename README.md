@@ -1,6 +1,6 @@
-# Welcome to Terence's GitHub Profile!
+## Welcome to my GitHub Profile!
 
-Hi there! I'm **Terence**, a passionate computer science student at EPITA in Paris. I have a strong background in various programming languages and technologies. Below you can find more information about my skills, projects, and how to reach me.
+Hi there! I'm **Terence**, a passionate computer science student at EPITA in Paris. I have a strong background in various programming languages and technologies. Below you can find more information about my skills and projects.
 
 ## About Me
 
@@ -19,8 +19,8 @@ Here are some of the programming languages and technologies I am proficient in:
 
 Here are a few projects I've worked on:
 
-1. **Project Name**: A small c++ tetris game that runs on linux wit the SFML library.
-   - **Tech Stack**: C++.
+1. **tetris**: A small c++ tetris game that runs on linux wit the SFML library.
+   - **Tech Stack**: C++
    - **GitHub Repo**: [https://github.com/terencemiralves/tetris](#)
 
 ## GitHub Stats
