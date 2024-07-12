@@ -1,4 +1,4 @@
-## Welcome to my GitHub Profile!
+## Welcome to my GitHub Profile! 👋
 
 Hi there! I'm **Terence**, a passionate computer science student at EPITA in Paris. I have a strong background in various programming languages and technologies. Below you can find more information about my skills and projects.
 
