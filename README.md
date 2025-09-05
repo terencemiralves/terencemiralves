@@ -22,6 +22,12 @@ Here are a few projects I've worked on:
 1. **tetris**: A small c++ tetris game that runs on linux wit the SFML library.
    - **Tech Stack**: C++
    - **GitHub Repo**: [https://github.com/terencemiralves/tetris](#)
+2. **CLI-Donut**: Spinning donut where you can adjust the speed and the size in real time written in C.
+   - **Tech Stack**: C
+   - **GitHub Repo**: [https://github.com/terencemiralves/CLI-Donut](#)
+3. **Zero-Knowledge-Identity-Verification**: A small ZKP application demo to create driver licenses and ages with circom.
+   - **Tech Stack**: JS, circom
+   - **GitHub Repo**: [https://github.com/terencemiralves/Zero-Knowledge-Identity-Verification](#)
 
 ## GitHub Stats
 
