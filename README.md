@@ -27,3 +27,6 @@ Here are a few projects I've worked on:
 
 ![Terence's GitHub Stats](https://github-readme-stats.vercel.app/api?username=terencemiralves&show_icons=true&theme=radical)
 
+## Root me Stats
+
+![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=PhillLewis)
