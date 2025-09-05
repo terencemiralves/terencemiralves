@@ -27,7 +27,7 @@ Here are a few projects I've worked on:
    - **GitHub Repo**: [https://github.com/terencemiralves/CLI-Donut.git](#)
 3. **Zero-Knowledge-Identity-Verification**: A small ZKP application demo to create driver licenses and ages with circom.
    - **Tech Stack**: JS, circom
-   - **GitHub Repo**: [https://github.com/terencemiralves/Zero-Knowledge-Identity-Verification.git](#)
+   - **GitHub Repo**: [https://github.com/terencemiralves/Zero-Knowledge-Identity-Verification](#)
 
 ## GitHub Stats
 
