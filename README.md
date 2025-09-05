@@ -13,7 +13,7 @@ Hi there! I'm **Terence**, a passionate computer science student at EPITA in Par
 Here are some of the programming languages and technologies I am proficient in:
 
 - **Languages**: C, C++, C#, Java, JavaScript, Python, Haskell, Assembly
-- **Tools & Technologies**: Docker, SQL
+- **Tools & Technologies**: Docker, SQL, ansible
 
 ## Projects
 
