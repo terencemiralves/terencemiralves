@@ -29,4 +29,4 @@ Here are a few projects I've worked on:
 
 ## Root me Stats
 
-![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=PhillLewis)
+![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=PhillLewis&gstats=show&style=astral)
