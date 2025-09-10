@@ -33,3 +33,5 @@ Here are a few projects I've worked on:
 ## Root me Stats
 
 ![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=PhillLewis&gstats=show&style=astral)
+
+(if the picture does not load: https://www.root-me.org/PhillLewis?lang=fr#30deae2ce6fc5e80aa34b3f211714c4d)
